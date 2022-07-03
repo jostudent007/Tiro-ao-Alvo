@@ -1,0 +1,33 @@
+body{
+    height: 100vh;
+}
+table{
+    color: white;
+    text-align: center;
+}
+canvas{
+    background-image: url(fundojogo.jpg);
+    cursor: crosshair;
+    display: inline-block;
+
+}
+#nicks{
+    position: relative;
+    font: 14px verdana;
+    margin-left: 59%;
+    bottom: 100%;
+}
+#botoesdoCron{
+position: relative;
+margin-left:15%;
+}
+
+#iniciar{
+    background-color: green;
+    position: relative;
+    margin-left: 10%;
+}
+#counter{
+position: relative;
+margin-left: 5%;
+}
